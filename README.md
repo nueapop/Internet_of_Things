@@ -8,6 +8,7 @@
 - Input To Console
 ## Serial Communication
 - DHT To I2C
+- Serial Connection
 #
 ## License
 
